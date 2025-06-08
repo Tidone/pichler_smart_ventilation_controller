@@ -111,6 +111,8 @@ I connected the parts using some wires, and wrapped everything in a heat shrink 
 
 Fortunately the in-wall pattress box is pretty empty and has enough space for the wrapped Raspberry Pi Pico.
 
+<img src="docs/controller_connected.jpg" width="50%" height="50%">
+
 ## Source Code
 
 I'm using [PlatformIO](https://platformio.org/) with a [custom port](https://github.com/maxgerhardt/platform-raspberrypi) for the Raspi Pico.<br>
